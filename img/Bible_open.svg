@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" id="svg2966" viewBox="0 0 220 220" version="1.1">
+  <g id="layer1" transform="translate(0,-832.36)">
+    <g id="g3612">
+      <path id="path3770" fill="#7a3b3f" d="m105 1029.4h104v-168h-208v168h104z"/>
+      <path id="rect3710" d="m5 865.36h100l96-16v168l-95.26 8h-100.74v-160z" fill="#a0a0a0"/>
+      <path id="rect3708" d="m6 866.36h99v158h-99v-158z" fill="#ddd"/>
+      <path id="path3712" d="m105 866.36 95-16v166l-95 8v-158z" fill="#fff"/>
+      <path id="path3714" d="m21 885.36h71.541" stroke="#a0a0a0" stroke-width="10" fill="none"/>
+      <path id="rect3742" d="m20.295 905.11h32.705v100.25h-32.705v-100.25z" fill="#a0a0a0"/>
+      <path id="path3745" d="m60.295 905.11h24.092v100.25h-24.092v-100.25z" fill="#a0a0a0"/>
+      <path id="path3749" d="m116 881.36 29-4 0.00004 124-29 4v-124z" fill="#bebebe"/>
+      <path id="path3751" d="m152 876.36 29-4 0.00004 125l-29 4.04v-125z" fill="#bebebe"/>
+      <path id="rect3772" d="m84.964 865.36h16.036v176l-8-8-8 8-0.036-176h0.00024z" fill="#f0a30a"/>
+      <path id="path2826" d="m101 1041.4h119v-180h-19v156l-96 8h-4v16z" fill-opacity=".19608"/>
+    </g>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Bible open</dc:title>
+        <dc:date>2013-08-31T14:26:27</dc:date>
+        <dc:description>bible book open</dc:description>
+        <dc:source>http://openclipart.org/detail/182770/book-open-by-crisg-182770</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>crisg</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>bibbia</rdf:li>
+            <rdf:li>bible</rdf:li>
+            <rdf:li>book</rdf:li>
+            <rdf:li>bookmark</rdf:li>
+            <rdf:li>christianity</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>icon</rdf:li>
+            <rdf:li>learning</rdf:li>
+            <rdf:li>libro</rdf:li>
+            <rdf:li>religion</rdf:li>
+            <rdf:li>study</rdf:li>
+            <rdf:li>toolbar</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
