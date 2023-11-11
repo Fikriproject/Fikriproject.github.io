@@ -88,6 +88,11 @@
   transition: 0.3s;
 }
 
+.card-text {
+  align-items: center;
+  text-align : center;
+}
+
 @media (min-width: 768px) {
   .content-3-1 .title-text {
     font: 600 2.25rem/2.5rem Poppins, sans-serif;
